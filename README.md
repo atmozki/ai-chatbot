@@ -15,6 +15,10 @@ You can install them using pip:
 pip install openai gradio
 ```
 
+## Screenshots
+
+![Screenshot 1](assets/screenshot.jpeg)
+
 ## Usage
 
 To run the chatbot, simply run the `main.py` file:
