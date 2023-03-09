@@ -17,7 +17,7 @@ pip install openai gradio
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshot.jpeg)
+![Screenshot](.assets/screenshot.jpeg)
 
 ## Usage
 
